@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/pseudo_char_driver/modules.order := {   echo /home/cloud_user/linux/lld/pseudo_char_driver/pseudo.o; :; } > /home/cloud_user/linux/lld/pseudo_char_driver/modules.order

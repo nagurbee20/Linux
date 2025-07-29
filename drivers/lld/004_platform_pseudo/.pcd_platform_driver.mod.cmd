@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/004_platform_pseudo/pcd_platform_driver.mod := printf '%s\n'   pcd_platform_driver.o | awk '!x[$$0]++ { print("/home/cloud_user/linux/lld/004_platform_pseudo/"$$0) }' > /home/cloud_user/linux/lld/004_platform_pseudo/pcd_platform_driver.mod

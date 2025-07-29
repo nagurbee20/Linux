@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/003_pseudo_cher_multiple/psd_n.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cloud_user/linux/lld/003_pseudo_cher_multiple/psd_n.ko /home/cloud_user/linux/lld/003_pseudo_cher_multiple/psd_n.o /home/cloud_user/linux/lld/003_pseudo_cher_multiple/psd_n.mod.o

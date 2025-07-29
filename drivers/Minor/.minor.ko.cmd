@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/Minor/minor.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cloud_user/linux/Minor/minor.ko /home/cloud_user/linux/Minor/minor.o /home/cloud_user/linux/Minor/minor.mod.o

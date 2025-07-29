@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/004_platform_pseudo/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/cloud_user/linux/lld/004_platform_pseudo/Module.symvers -T /home/cloud_user/linux/lld/004_platform_pseudo/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/003_pseudo_cher_multiple/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/cloud_user/linux/lld/003_pseudo_cher_multiple/Module.symvers -T /home/cloud_user/linux/lld/003_pseudo_cher_multiple/modules.order -i Module.symvers -e 

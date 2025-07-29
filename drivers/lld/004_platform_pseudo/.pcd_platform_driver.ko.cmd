@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/004_platform_pseudo/pcd_platform_driver.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cloud_user/linux/lld/004_platform_pseudo/pcd_platform_driver.ko /home/cloud_user/linux/lld/004_platform_pseudo/pcd_platform_driver.o /home/cloud_user/linux/lld/004_platform_pseudo/pcd_platform_driver.mod.o

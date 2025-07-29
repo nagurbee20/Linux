@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/pseudo_char_driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/cloud_user/linux/lld/pseudo_char_driver/Module.symvers -T /home/cloud_user/linux/lld/pseudo_char_driver/modules.order -i Module.symvers -e 

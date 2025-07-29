@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/first/hello_world.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cloud_user/linux/first/hello_world.ko /home/cloud_user/linux/first/hello_world.o /home/cloud_user/linux/first/hello_world.mod.o

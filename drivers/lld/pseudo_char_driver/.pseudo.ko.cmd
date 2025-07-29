@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/pseudo_char_driver/pseudo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cloud_user/linux/lld/pseudo_char_driver/pseudo.ko /home/cloud_user/linux/lld/pseudo_char_driver/pseudo.o /home/cloud_user/linux/lld/pseudo_char_driver/pseudo.mod.o

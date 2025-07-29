@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/para/para.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cloud_user/linux/para/para.ko /home/cloud_user/linux/para/para.o /home/cloud_user/linux/para/para.mod.o

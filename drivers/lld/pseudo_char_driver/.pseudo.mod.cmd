@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/pseudo_char_driver/pseudo.mod := printf '%s\n'   pseudo.o | awk '!x[$$0]++ { print("/home/cloud_user/linux/lld/pseudo_char_driver/"$$0) }' > /home/cloud_user/linux/lld/pseudo_char_driver/pseudo.mod

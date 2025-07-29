@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/Minor/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/cloud_user/linux/Minor/Module.symvers -T /home/cloud_user/linux/Minor/modules.order -i Module.symvers -e 

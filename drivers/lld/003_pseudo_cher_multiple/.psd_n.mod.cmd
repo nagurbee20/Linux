@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/003_pseudo_cher_multiple/psd_n.mod := printf '%s\n'   psd_n.o | awk '!x[$$0]++ { print("/home/cloud_user/linux/lld/003_pseudo_cher_multiple/"$$0) }' > /home/cloud_user/linux/lld/003_pseudo_cher_multiple/psd_n.mod

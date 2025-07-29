@@ -1,0 +1,1 @@
+savedcmd_/home/cloud_user/linux/lld/004_platform_pseudo/pcd_device_setup.mod := printf '%s\n'   pcd_device_setup.o | awk '!x[$$0]++ { print("/home/cloud_user/linux/lld/004_platform_pseudo/"$$0) }' > /home/cloud_user/linux/lld/004_platform_pseudo/pcd_device_setup.mod
