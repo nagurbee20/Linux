@@ -1,0 +1,2 @@
+Hi Nagurbee, welcome to system programming.
+This is example of O_APPENDThis is example of O_APPEND
